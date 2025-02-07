@@ -1,5 +1,5 @@
 # Turtle-Crossing
-created a game through online python course that is where you guide a turtle across a busy road while dodging moving cars. The objective is to get to the other side.
+created a game that is where you guide a turtle across a busy road while dodging moving cars. The objective is to get to the other side.
 
 A fun and interactive Python game where you guide a turtle across a busy road while dodging moving cars. The objective is to safely reach the other side without colliding with any obstacles, progressing through increasingly challenging levels.
 
